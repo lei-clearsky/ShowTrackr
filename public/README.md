@@ -1,0 +1,2 @@
+<h2>Learning AngularJS through Sahat Yalkabov's tutorial "Create a TV Show Tracker using AngularJS, Node.js and MongoDB": http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/</h2>
+<h2>New features will be added to the project after finishing this tutorial.</h2>
